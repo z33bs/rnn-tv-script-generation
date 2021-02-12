@@ -1,0 +1,156 @@
+E1 B2500 36% 	Training Loss: 9.956375 --> 3.892861 | avg 4.811303 	#/s: 1727.4
+
+jerry: heyyyyyy gladys: vivian: i don't know what i have to have to do that? i don't have to be. |  | jerry: i was the little of my door, i think i know you, i don't get me. |  | jerry:(looks) i don't have to go to the whole way, you know, i know... i don't know i have to get it. |  | elaine: i don't know what i think i know you, i don't want to get the little little little time!
+
+E1 B5000 72% 	Training Loss: 9.956375 --> 3.832763 | avg 4.575577 	#/s: 1719.8
+
+jerry:, i have. |  | elaine: yeah, i don't want to go to me, i was gonna go up. you know, i don't have to see you, i'm going on. |  | jerry: yeah, i'm a little of the way to be. |  | jerry:(to jerry) : i'm not gonna get to go out of the head. |  | elaine: yeah, i can't. |  | jerry: well, i have a little guy. |  | newman:(to jerry) i know, i'm
+
+E2 B531 8% 	Training Loss: 4.529746 --> 4.031639 | avg 4.061270 	#/s: 1648.6
+
+jerry: 3p *our* 3p 3p 3p *our* *our* *our* 3p 3p 3p 3p 3p *our* *our* *our* mugging 'a) |  | kramer: i don't know. |  | elaine: i don't think it. |  | newman: yeah, yeah. |  | george: yeah.(to kramer) oh, no... |  | elaine: i think i don't think you were a little idea of a little man. |  | jerry: i can't believe you. i was in the other night. |  | jerry: yeah! |  | jerry: i don't know
+
+E2 B3031 43% 	Training Loss: 4.529746 --> 3.390364 | avg 4.040507 	#/s: 1648.3
+
+jerry:, you know i was not gonna be a little man in your car. |  | jerry:(laughs) hey, i have a little bit of a few minutes. |  | elaine: well what are you doing? |  | jerry: what are i doing in the way in?(jerry nods to the phone) hey, i don't want to be the best. |  | george: i can't believe this, i have to do that. |  | jerry: well, i know, you can do that, you got
+
+E2 B5531 79% 	Training Loss: 4.529746 --> 4.167379 | avg 4.018852 	#/s: 1648.4
+
+jerry: you know, i was a good time. |  | kramer: yeah, yeah, yeah!(jerry enters and sits down) |  | jerry:(to jerry) i think you're gonna get to the show. |  | elaine: oh, i got to go back with this.. |  | kramer: yeah, yeah, you know what? you know, i don't know. |  | kramer: i don't know. |  | jerry: i was not getting a little more--(to jerry) you know, it's
+
+E3 B1062 15% 	Training Loss: 3.846308 --> 3.891018 | avg 3.833026 	#/s: 1713.9
+
+jerry:!! |  | jerry: i don't know, i'm gonna be able to do that, you know, uh, i'm gonna be a big deal to be a little nervous. |  | george: well, i can't believe you. |  | george:(to the table) well, i got the phone. |  | george:(looking) you know what i was doing.(kramer enters) i don't have any idea, i'm gonna get it back... i mean, you gotta be. you know what
+
+E3 B3562 51% 	Training Loss: 3.846308 --> 4.142508 | avg 3.847294 	#/s: 1712.7
+
+jerry:. |  | george:(to george) oh, i know.(they leave) |  | jerry: what? |  | kramer: well, what are you doing? |  | george: well, you don't think it's like a lot of money, and i'm not gonna be in the car. |  | george: i don't know how much i do. |  | jerry: oh, yeah. i think i'm gonna have a good time. |  | kramer: yeah, yeah, yeah, well, i don't want it..
+
+E3 B6062 87% 	Training Loss: 3.846308 --> 4.029674 | avg 3.851499 	#/s: 1711.4
+
+jerry:, and the whole thing is a little... |  | jerry: oh yeah, i know... |  | jerry:(to kramer) hey, you know, i think i'm gonna do it. |  | jerry:(to jerry) yeah, you know, you know, you don't know what you do? |  | jerry: i don't have it. |  | jerry:(to elaine) oh, yeah, yeah, yeah. yeah, yeah, you know. you know, you know..
+
+E4 B1593 23% 	Training Loss: 3.490947 --> 3.428085 | avg 3.716984 	#/s: 1647.1
+
+jerry: nachos don't..... |  | elaine: i don't know, it's a little. i don't want to talk to her. |  | george: i don't know what i was thinking about the other time. |  | elaine:(quietly) you know, i was a lot of people in the car. |  | kramer: oh, well, i got a good name. |  | elaine:(looking up) i got a little bit in a few seconds. |  | jerry: i can't get a lot of people
+
+E4 B4093 59% 	Training Loss: 3.490947 --> 3.280821 | avg 3.731586 	#/s: 1645.8
+
+jerry: titles exception? |  | elaine: i don't know. |  | elaine:(to himself) well, i was wondering if i was in there. |  | kramer: well, i'm not sure. |  | elaine: i know.(he exits)(jerry enters) |  | jerry:(to jerry.) oh, yeah, you know, you know, i can't get a job for this, i have a good guy. |  | jerry: well, i have a little more. |  | george: oh, no
+
+E4 B6593 95% 	Training Loss: 3.490947 --> 3.871585 | avg 3.746259 	#/s: 1644.7
+
+jerry: bueno productive [yankee both: you can't go down here, you know, i don't wanna do this. you know, i don't wanna be in a little bit of my fault.... |  | george:(to george) hey, hey, i can't get a lot of people. |  | elaine:(laughing) i think i'm not paying. |  | kramer:(to kramer) oh, yeah, yeah, i think we can get the phone to get a little bit of a good time. you don't
+
+E5 B2124 30% 	Training Loss: 3.351510 --> 3.681686 | avg 3.635475 	#/s: 1714.0
+
+jerry: yes, it is a good idea! |  | george:(to jerry) hey, hey, hey. |  | george: hey, you know, i was going to meet her. you know, i got a big salad. i can't do this.(to the woman) |  | george: oh, hi, you got a big deal with the guy. |  | kramer: oh, well, you can't do this. |  | jerry: i know..... i got the car. |  | 
+
+E5 B4624 66% 	Training Loss: 3.351510 --> 3.530764 | avg 3.655998 	#/s: 1712.2
+
+jerry: celery mutant privacy, the one.(to george) what? |  | jerry: no, no i can't believe you wanted to get a few minutes. |  | george: well, i think you can take that. |  | jerry: i don't want a little to get a little. |  | kramer: oh, yeah, i can't believe this is a good idea. |  | jerry:(to george) i can't. |  | elaine:(to george) i don't want you to see that. |  | george: you
+
+E6 B155 2% 	Training Loss: 3.301205 --> 3.337476 | avg 3.533730 	#/s: 1623.4
+
+jerry: |  | elaine: well i don't even know. |  | jerry: oh, you don't want to see that? |  | jerry: i thought i had an idea. he had a little bit. |  | elaine: i think i should do it. |  | elaine: what? what do you want? |  | george:(to the intercom) yeah? |  | george: yeah, yeah, well you don't have to do something. |  | jerry: i know. |  | kramer: yeah, yeah. |  | george:(to
+
+E6 B2655 38% 	Training Loss: 3.301205 --> 3.623466 | avg 3.582361 	#/s: 1645.4
+
+jerry:.................. |  | jerry: so... i got some kind of a thing. |  | elaine: oh. i know what you want. i think i can get a little more thing to do. |  | jerry: i don't know. |  | jerry: what? |  | george: i don't know! |  | george: what is she? |  | jerry: no, i just wanted to go to the bathroom. |  | kramer: yeah
+
+E6 B5155 74% 	Training Loss: 3.301205 --> 3.760610 | avg 3.599491 	#/s: 1645.9
+
+jerry: bon discuss you had to go back to the hospital. |  | jerry: i think i should do something like you, you don't know how to be here. |  | jerry: oh, i don't understand, i don't know how much i can do it. |  | jerry: well, you should have to go. |  | elaine: well, i was just a very very good idea. |  | george: well, what are you doing? you don't have to go to your house. |  | elaine:(to jerry
+
+E7 B686 10% 	Training Loss: 3.519839 --> 3.865047 | avg 3.520395 	#/s: 1707.8
+
+jerry: fleeing stumbled, and then we have to be so funny to be in the mood. |  | jerry: well, i was thinking about a very bad idea, but i'm going to get out of the car. |  | george:(smiling) no, no. i'm sorry. i don't have it. |  | elaine:(to kramer) what happened? |  | elaine: i got some kind of a good time, you can be ashamed. |  | kramer: yeah, yeah, i'm sure i could get a good
+
+E7 B3186 46% 	Training Loss: 3.519839 --> 3.527619 | avg 3.538344 	#/s: 1710.2
+
+jerry: holy boo busting frank: busting vivian 915 penis: mayo: hahaha!!!(fuck). |  | elaine:(yelling) i know you, i don't have any time.(jerry enters) |  | elaine:(yelling out) oh! |  | jerry:(to jerry and george) you know what? i'm gonna get back to the airport. |  | jerry: oh, i think i'm gonna get the car. i can't believe this... i was a little tired. |  | george:(to kramer)
+
+E7 B5686 82% 	Training Loss: 3.519839 --> 3.743761 | avg 3.552850 	#/s: 1710.3
+
+jerry: penis: hell's si. |  | jerry: oh, yeah, i know. |  | george: well you know, i think i was a little nervous. i think i was..... |  | jerry:(looking at the counter) well, you see? |  | kramer: oh, yeah. |  | elaine: i don't think so. |  | jerry: i don't think i can. |  | george: well, what are you doing? |  | george: no, you can't do that. |  | jerry: well
+
+E8 B1217 17% 	Training Loss: 3.598598 --> 3.697497 | avg 3.466474 	#/s: 1655.4
+
+jerry: wallet's penis: locking lupus hiss vivian grown!!!! |  | jerry:(to jerry) i can't believe you got your number. |  | elaine: you know, the only thing i have.(he leaves) |  | george: oh, i think i'm going to the bathroom. you got a lot of money in the building.... |  | jerry:(to jerry) hey, what happened? |  | kramer: i don't know. i don't wanna talk to her, jerry. |  | jerry: i
+
+E8 B3717 53% 	Training Loss: 3.598598 --> 3.349664 | avg 3.493726 	#/s: 1650.5
+
+jerry: goodness parents' perform crew c'mon! |  | jerry: so, you know, you should have a lot of pressure. |  | george: oh, no, i'm really not going to do this.. |  | elaine:(to jerry) hey, i know how you had a little trouble. |  | elaine: yeah, well, i guess i'll be a little bit. |  | george:(confused) what do you think? |  | george:(to george) i don't know. |  | kramer: well, i was
+
+E8 B6217 89% 	Training Loss: 3.598598 --> 3.376643 | avg 3.515914 	#/s: 1654.2
+
+jerry: bueno celia: priest: brain: sp d': you know, i think i could get out of my house. |  | jerry: oh. |  | jerry: oh... |  | elaine: what is it about? |  | jerry: well, i don't know. |  | jerry: i can't, you should be able to get it off. |  | george:(to george) oh, no, no. |  | jerry: i don't think so. |  | kramer: hey, jerry, this is a nice thing. i don't want
+
+E9 B1748 25% 	Training Loss: 2.880617 --> 3.583186 | avg 3.430418 	#/s: 1709.5
+
+jerry: prepare bravo brain: reston: twix 915, shmoopy! it's my pleasure! |  | kramer: hey, hey, hey! |  | jerry: hey, what are you doing? |  | jerry: well it's a little thing.(he starts backing into the door.) |  | jerry: oh, you can't do it. |  | george:(to jerry) you don't think you're a very good friend of a good friend. |  | kramer:(looking at her) yeah, yeah! |  | george:(to jerry) hey
+
+E9 B4248 61% 	Training Loss: 2.880617 --> 3.742306 | avg 3.460428 	#/s: 1703.1
+
+jerry: assumed goodness lithe charlie aaa charlie aaa hell's? |  | elaine: i got a little tired of it. |  | george: well, i don't know what to do. |  | george:(to jerry) you know, i think i could be a character in this thing. |  | jerry:(quietly) you don't know what you do, i don't think i can do this for me. |  | elaine: well i was just trying to be a very difficult for the rest of my life. |  | elaine: what
+
+E9 B6748 97% 	Training Loss: 2.880617 --> 3.310314 | avg 3.480114 	#/s: 1699.8
+
+jerry: hell's hell's weve talked thousand. |  | kramer:(to elaine) hey, how about the car?!?(to jerry) hey, what is that? |  | jerry:(on phone) oh, i think you're in here. |  | elaine:(to george) hey, you know how i feel about the guy? |  | elaine:(looking at the tv) you know what? you know, i don't know what this means. |  | elaine: well, it's just a little strange. | 
+
+E10 B2279 33% 	Training Loss: 3.252649 --> 2.928073 | avg 3.406840 	#/s: 1638.2
+
+jerry: explain the bravo.(george nods and leaves.) |  | kramer: hey. hey, what are you doing? you know what i do. you got a lot of thinking, the whole thing is, you can just be a little bit... |  | jerry: you know, it's not a little, you know, i don't know what this means. |  | elaine: what are you doing, what do you want? |  | kramer: yeah. |  | jerry: i think i can get a little
+
+E10 B4779 69% 	Training Loss: 3.252649 --> 3.221005 | avg 3.430759 	#/s: 1637.2
+
+jerry: avoid limitations, you want to get some. |  | jerry:(looking for the door) i don't know. |  | jerry: oh, no. |  | jerry:(looking at jerry) yeah, yeah. |  | jerry: oh, i don't know. |  | jerry:(to jerry) what are you gonna do?(he walks off the couch, george is shown to be a little bit) oh, no, no. i can't. i got the car. |  | jerry:(looking at the
+
+E11 B310 4% 	Training Loss: 3.249222 --> 3.527493 | avg 3.349719 	#/s: 1687.3
+
+jerry: unconvincingly george: dammit. |  | jerry: i can't do that! |  | elaine:(looking around) yeah, well i don't know what you're talking about. |  | george: i don't know. you know what? i mean, if she had a good time. i just want you to get a bite of a job. |  | jerry: i can't, i don't know what to do. i just got a lot better. |  | kramer: well, i'm sorry i'm gonna go. |  | kramer:(smiling)
+
+E11 B2810 40% 	Training Loss: 3.249222 --> 3.889463 | avg 3.379054 	#/s: 1684.2
+
+jerry: cue likewise georgie's right states novocaine amazed, destroyed, burning a vcr, and a little tired! |  | jerry: what is that smell? |  | george: i don't know. i can't get it. |  | kramer: i got it. |  | george: i don't know what i was thinking. |  | george: what? |  | jerry: you know, i think i'm going to get the job. i mean, you know, you were in the middle of the car and they got the other day. |  | 
+
+E11 B5310 76% 	Training Loss: 3.249222 --> 3.887421 | avg 3.404084 	#/s: 1661.0
+
+jerry: afford" and i think i could have been a good time. i know i was wondering if he doesn't even know where the worst of the people are going to have. |  | elaine: i know, i know. |  | george: i mean it's like a friend of mine. |  | elaine: oh. |  | elaine:(to george) oh yeah. |  | george:(to jerry) i know, i was thinking of a little. but, you think i can go to your place, you don't
+
+E12 B841 12% 	Training Loss: 3.281812 --> 2.869805 | avg 3.315686 	#/s: 1694.8
+
+jerry:-- i was wondering if i had the job.(jerry enters and leaves) |  | elaine:(shouting) oh, hi, jerry, i don't think i should get back. |  | george: i don't know. |  | jerry: well, it's a very interesting idea. |  | jerry: oh, yeah, yeah, yeah... |  | elaine:(looking at his watch) oh. oh my god.(he leaves) |  | elaine:(quietly) oh, hi, mr. seinfeld
+
+E12 B3341 48% 	Training Loss: 3.281812 --> 3.355237 | avg 3.357469 	#/s: 1696.0
+
+jerry: confirm prison fifteen afford gail france beat the heights |  | george: what? |  | jerry: no, it doesn't matter, i don't want to get a little better than that. |  | george: i don't want the money, i have to go out with a little. you know what, i don't want to know what this is about, but i'm not going to get it. |  | jerry: oh, i don't have the job. |  | elaine: i can't believe it. i was in my apartment, and
+
+E12 B5841 84% 	Training Loss: 3.281812 --> 3.465271 | avg 3.383091 	#/s: 1696.0
+
+jerry: challenging peterman: a driven? |  | kramer: hey, hey, what happened to you? |  | jerry: well, you know what, i think you could be... |  | jerry: yeah. |  | elaine: oh, i think i have a very important idea for the first time. |  | george:(to kramer) i think i can have a good time here. |  | george: well, i just wanted to get a new one, and then we can go out with the truth...
+
+E13 B1372 20% 	Training Loss: 3.388216 --> 3.081261 | avg 3.305402 	#/s: 1637.3
+
+jerry: goodness peterman: squinting liver squinting hed come in. ] |  | george:(to kramer) you know how you can get you a new place. |  | george: i can't go. |  | elaine:(entering, to elaine) oh, yeah.(to jerry) you know, it's not the point. |  | jerry:(to jerry) you know, i think i'm going to get to the airport for a while... |  | jerry:(to jerry) you know, the whole thing is,
+
+E13 B3872 56% 	Training Loss: 3.388216 --> 3.101094 | avg 3.341112 	#/s: 1636.5
+
+jerry: banned discuss the gosh grew. |  | elaine: oh, you know i don't want to see that. |  | kramer: oh, i can't. |  | jerry: oh, i'm not going to do that. i'm not going to see you. i don't want to. |  | jerry: well, i don't know if i was going to tell me that he didn't want it. i don't think i'm a good driver, but i don't know what you think. |  | george: i mean, if you could do this
+
+E13 B6372 91% 	Training Loss: 3.388216 --> 3.418114 | avg 3.367425 	#/s: 1636.2
+
+jerry: goodness 'bout peterman: noooo peterman: george: touched.., i just came to the game. |  | jerry: i know. |  | elaine: oh, well. |  | george: what do you think? |  | kramer:(looking at his watch) oh, yeah. |  | george: i don't have any idea. i know, i'm gonna have to talk to you for a few minutes. |  | jerry: well, i think you can go in here, and get some sleep. |  | george:(to george)
+
+E14 B1903 27% 	Training Loss: 3.270878 --> 3.355230 | avg 3.295436 	#/s: 1697.5
+
+jerry: peterman: cheryl goodness vest: 'bout the inter- cleaners |  | jerry: hey, hey, hey. |  | jerry: hello. |  | george: hello. |  | jerry: what? you are not gonna be here? |  | kramer:(to jerry) i don't want to get it out of my mind.(jerry looks like george and jerry laugh in a few days, he answers it) so, you know, i don't want to be able to do something for you. i don't know what it is. | 
+
+E14 B4403 63% 	Training Loss: 3.270878 --> 2.935767 | avg 3.322465 	#/s: 1696.4
+
+jerry: bowling sunday sunday worry japan exist, i can't get a little nervous on my head. |  | george: i think it's not a big coincidence. |  | kramer: oh, no no no i don't. |  | kramer: i can't. |  | jerry: i can't do anything. |  | jerry: i don't want you! |  | george:(to george) hey, hey! i don't have any money. |  | kramer: well, i don't have to do this for a while. |  | kramer:(to elaine)
+
+E14 B6903 99% 	Training Loss: 3.270878 --> 3.582777 | avg 3.350283 	#/s: 1698.4
+
+jerry: a birds executive, the posse. |  | jerry: oh, the guy. |  | jerry: i can't believe it. |  | jerry: what? |  | george: what is the name of the movie? what is it? |  | jerry: i don't know, i know what the difference. |  | jerry: i mean what, i mean, i don't know if i was just gonna go to the bathroom. |  | kramer: yeah, but the whole story is not that bad, you know what? i mean,
+
